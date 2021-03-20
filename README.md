@@ -4,13 +4,7 @@
 - 🔭 I’m persuing my **Master in Computer Application** from  *University of Allahabad*
 - 🌱 I’m currently Learning everything.
 - ⚡ I love to build things using JavaScript stack.
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-<br />
-<br />
-
+- ✉️ You can reach me at - divyanshsrivastava20@gmail.com
 
 ### Connect with me:
 <br />
@@ -24,10 +18,6 @@
 
 <a href="https://twitter.com/devjs001">
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="divyanshsrivastava20@gmail.com">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br />
@@ -46,11 +36,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
-
-
 
 ![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=oyesdev&show_icons=true&hide_border=true)
 
