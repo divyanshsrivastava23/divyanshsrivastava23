@@ -1,8 +1,7 @@
 ### Hi there, I'm Divyansh 👋
 ## I'm an Engineer, a Web developer, and Life Long Learner!
 
-- 🔭 I’m pursuing my **Master of Computer Application** from  *University of Allahabad*
-- 🌱 I’m currently Learning everything.
+- 🔭 I’m working as a **Software Engineer**.
 - ⚡ I love building things using JavaScript stack.
 - ✉️ You can reach me at - divyanshsrivastava20@gmail.com
 
