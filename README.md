@@ -36,6 +36,6 @@
 <br />
 <br />
 
-![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=divyanshsrivastava23&show_icons=true&theme=radical)
 
 <br />
