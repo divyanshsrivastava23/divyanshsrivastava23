@@ -36,8 +36,6 @@
 <br />
 <br />
 
-![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=oyesdev&show_icons=true&hide_border=true)
+![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <br />
-
-<img alt="oyesdev's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyesdev&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
