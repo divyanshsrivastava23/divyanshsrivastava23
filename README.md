@@ -11,14 +11,6 @@
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.quora.com/profile/Devyansh-Srivastava-2">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
-</a>
-
-<a href="https://twitter.com/devjs001">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <br />
 <br />
 
@@ -35,7 +27,4 @@
 
 <br />
 <br />
-
-![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=divyanshsrivastava23&show_icons=true&theme=radical)
-
 <br />
